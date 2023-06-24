@@ -1,14 +1,18 @@
 <!DOCTYPE html>
-<html lang="ru" class="site-page">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0", shrink-to-fit=no>
     <title>Курс-Git и GitHub</title>
     <link  href="css/styles.css" rel="stylesheet">
        </head>
-       <body class="site-body">
+       <body>
 <h1 class = "title">Главная страница</h1>
+<<<<<<< HEAD
+<p class="quote">«На этой странице будет много интересного контента»</p>
+=======
 <p class="description">«На этой странице будет много интересного контента»</p>
+>>>>>>> conflict/merge-editor
     <a href="pages/about.html" > «Перейти на страницу „О курсе“» </a>
 <h2>gitg2</h2>
 </body>
